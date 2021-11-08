@@ -15,7 +15,7 @@ public class TestGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello world");
+        System.out.println("Hello world sửa lần 3");
         int a = 1;
         int money = 3000;
     }
