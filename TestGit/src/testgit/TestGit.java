@@ -16,7 +16,7 @@ public class TestGit {
      */
     public static void main(String[] args) {
         System.out.println("Hello World!");
-        int a = 1;
+        int a = 12345;
         double money = 5.5;
     }
     
